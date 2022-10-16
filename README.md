@@ -1,4 +1,4 @@
-# Diabetes_Classifier
+# Diabetes Diagnosis
 
 Diabetes is a chronic malady that ensues when the pancreas does not yield sufficient insulin or when the body cannot effectively use the insulin it produces.
 In 2014, 8.5% of adults 18 years and older had diabetes. In 2019, diabetes was the direct cause of 1.5 million deaths and 48% of all deaths due to diabetes occurred before the age of 70 years.
